@@ -7,8 +7,8 @@ Built for Zepto & Blinkit delivery partners — automatic UPI payouts when flood
 ---
 
 ## Live Demo
-- **Frontend (Vercel):** https://darkshield.vercel.app
-- **Backend (Railway):** the-intern-guidewire-git-main-nehachinnam956s-projects.vercel.app
+- **Frontend (Vercel):** the-intern-guidewire-git-main-nehachinnam956s-projects.vercel.app
+- **Backend (Railway):** ttheintern-guidewire-production.up.railway.app
 - **Demo video:** [2-min walkthrough link]
 
 ---
