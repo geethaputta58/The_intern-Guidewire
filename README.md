@@ -4,7 +4,7 @@
 > Persona: Grocery / Q-Commerce (Zepto / Blinkit)
 
 **🌐 Live Demo:** [the-intern-guidewire-b2qv0ve23-nehachinnam956s-projects.vercel.app](https://the-intern-guidewire-b2qv0ve23-nehachinnam956s-projects.vercel.app)  
-**🔧 Backend API:** [elegant-love-production.up.railway.app](https://elegant-love-production.up.railway.app)
+**🔧 Backend API:** [elegant-love-production.up.railway.app](https://elegant-love-production.up.railway.app/health)
 
 ---
 
