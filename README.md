@@ -340,4 +340,4 @@ Frontend runs on `http://localhost:3000`
 ---
 
 *DarkShield — Because Every Dark Store Has a Story Worth Protecting*  
-**Guidewire DEVTrails 2026 | Phase 1 | March 20, 2026**
+**Guidewire DEVTrails 2026 
