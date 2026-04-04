@@ -1,6 +1,6 @@
 # 🛡️ DarkShield — Parametric Income Protection for Dark Store Delivery Partners
 
-> **Guidewire DEVTrails 2026 | Phase 1**  
+> **Guidewire DEVTrails 2026 
 > Persona: Grocery / Q-Commerce (Zepto / Blinkit)
 
 **🌐 Live Demo:** [the-intern-guidewire-b2qv0ve23-nehachinnam956s-projects.vercel.app](https://the-intern-guidewire-b2qv0ve23-nehachinnam956s-projects.vercel.app)  
